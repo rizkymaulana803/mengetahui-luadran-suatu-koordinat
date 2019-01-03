@@ -1,0 +1,1 @@
+# mengetahui-luadran-suatu-koordinat
